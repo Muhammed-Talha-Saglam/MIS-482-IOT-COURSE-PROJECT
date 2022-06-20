@@ -5,7 +5,7 @@
 
 
 #define WIFI_SSID "Zyxel_C271"
-#define WIFI_PASSWORD "JKHNG7K7D7"
+#define WIFI_PASSWORD ""******""
 #define AUTHOR_EMAIL "byte04@outlook.com"
 #define AUTHOR_PASSWORD "******"
 #define RECIPIENT_EMAIL "muhammedtalhasaglam0@gmail.com"
